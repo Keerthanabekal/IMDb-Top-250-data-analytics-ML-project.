@@ -6,10 +6,9 @@ Phase 1 : Web-scraping movie data from IMDb using Python.
 
 Phase 2 : Data cleaning and preprocessing to handle missing values, format columns, and ensure data consistency.
 
-Phase 3 : Exploratory data analysis (EDA) to identify trends such as:
-           Rating patterns across decades
-           Relationship between votes and ratings
-           Genre-wise performance over time
+Phase 3 : Exploratory data analysis (EDA) to identify trends such as Rating patterns across decades,
+
+Relationship between votes and ratings, Genre-wise performance over time.
 
 Phase 4 : Machine learning regression model 
 
