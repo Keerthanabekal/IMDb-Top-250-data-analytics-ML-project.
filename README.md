@@ -8,10 +8,8 @@ Phase 2 : Data cleaning and preprocessing to handle missing values, format colum
 
 Phase 3 : Exploratory data analysis (EDA) to identify trends such as Rating patterns across decades,
 
-Relationship between votes and ratings, Genre-wise performance over time.
+         Relationship between votes and ratings, Genre-wise performance over time.
 
-Phase 4 : Machine learning regression model 
-
-Evaluate the model using MAE, RMSE, and R² score.
+Phase 4 : Machine learning regression model, Evaluate the model using MAE, RMSE, and R² score.
 
 Phase 5 : Interactive Power BI dashboard with KPI's and trend analysis by year and decade.
